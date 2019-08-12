@@ -1,0 +1,4 @@
+
+scissors = 10
+
+name = input('ENTER ITEM')
